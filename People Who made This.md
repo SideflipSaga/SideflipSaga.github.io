@@ -1,9 +1,2 @@
 # SideflipSaga.github.io
-website cname
-The People that made this are  listed here  
-
-David Nolastname
-Tyler Nolastname
-Trent Nolastname
-Quinn Nolastname
-Lucas nolastname
+People who made this verson are Gabe nolastname and the idea was from a website made by Jacob nolastname and Trent nolastname
